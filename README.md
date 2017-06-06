@@ -1,2 +1,2 @@
 # hello-world
-I changed the previes text
+I changed the previous text
